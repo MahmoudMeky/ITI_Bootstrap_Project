@@ -1,0 +1,21 @@
+
+.sf-nav li.sf-menu-item--mega .sf-menu-submenu__content {
+  padding-top: 20px;
+}
+
+.sf-nav li.sf-menu-item--mega .sf__menu-item-level2 .sf__sub-menu-link2 {
+  display: none;
+}
+.sf-nav li.sf-menu-item--mega .sf__menu-item-level2 .sf__sub-menu-column {
+  margin-top: 0;
+}
+
+
+.sf__no-hover-effect .sf__hover-scale-up:hover img {
+  transform: none !important;
+}
+.foxkit-flashsale.style-2 .prod__countdown {
+	background: none !important;
+  	border: none !important;
+  	justify-content: center !important;
+}
